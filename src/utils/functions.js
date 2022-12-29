@@ -1,0 +1,1 @@
+export const combineClassNames = (...classes) => { return classes.filter(Boolean).join(' ') }

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="rightmenicon" transform="translate(-1280 -29)">
+    <g id="Ellipse_67" data-name="Ellipse 67" transform="translate(1280 29)" fill="#888f9e" stroke="#888f9e" stroke-width="1">
+      <circle cx="15" cy="15" r="15" stroke="none"/>
+      <circle cx="15" cy="15" r="14.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-user" data-name="Icon awesome-user" d="M6.3,7.2A3.6,3.6,0,1,0,2.7,3.6,3.6,3.6,0,0,0,6.3,7.2Zm2.52.9H8.35a4.9,4.9,0,0,1-4.1,0H3.78A3.781,3.781,0,0,0,0,11.88v1.17A1.35,1.35,0,0,0,1.35,14.4h9.9a1.35,1.35,0,0,0,1.35-1.35V11.88A3.781,3.781,0,0,0,8.82,8.1Z" transform="translate(1288.61 36.8)" fill="#fff"/>
+  </g>
+</svg>

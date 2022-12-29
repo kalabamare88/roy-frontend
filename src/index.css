@@ -1,0 +1,22 @@
+.error-border {
+  border: 2px solid #f95192;
+  border-radius: 6px;
+}
+.valid-border {
+  border: 2px solid #ced4da;
+  border-radius: 6px;
+}
+.error-message {
+  color: #f95192;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 13px;
+}
+.select-border {
+  border: 2px solid #ced4da;
+  border-radius: 6px;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,38 @@
+.create-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 0px 2rem;
+}
+.step-btn {
+  background-color: rgb(31, 199, 212) !important; 
+  min-width: 200px;
+}
+.step-btn-container {
+  padding: 24px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 24px;
+}
+.prv-step {
+  background-color: #ced4da !important;
+}
+@media screen and (max-width: 750px) {
+  .list-md {
+    display: none !important;
+  }
+  .list-md::after,
+  .list-md::before {
+    display: none !important;
+  }
+  .ant-steps-item-description {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 500px) {
+  .step-btn-container {
+    flex-direction: column;
+  }
+}
